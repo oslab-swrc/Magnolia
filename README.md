@@ -8,9 +8,13 @@ This is consist of 4.9.26 linux vanilla and four updates: Energysave, LDU, Memor
 See below for more information on each element. 
 
 Energysave(https://github.com/oslab-swrc/EnergySave)
+
 LDU(https://github.com/oslab-swrc/LDU)
+
 MemoryStorage_Filesystem(https://github.com/oslab-swrc/MemoryStorage_Filesystem)
+
 MemoryStorage_Kernel(https://github.com/oslab-swrc/MemoryStorage_Kernel)
+
 qspinlock+(https://github.com/oslab-swrc/qspinlockplus)
 
 
@@ -20,9 +24,8 @@ If you want to use this kernel, you can usually replace it by using general kern
 
 # LICENSE
 
-It is distributed under the GNU General Public License - see the
-  accompanying COPYING file for more details. 
+It is distributed under the GNU General Public License(GPL) version 2 - see the
+  accompanying LICENSE file for more details. 
 
 
-You can find more detail in here(https://www.actapress.com/Abstract.aspx?paperId=456169).
 
